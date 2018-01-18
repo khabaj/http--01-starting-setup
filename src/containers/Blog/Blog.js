@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import axios from '../../axios';
 import Posts from './Posts/Posts'
 import './Blog.css';
 import { Route, NavLink, Switch } from 'react-router-dom';
